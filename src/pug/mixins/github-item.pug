@@ -3,7 +3,7 @@ mixin github-item(title, content, link)
         h4.github__item-title #{title}
         p.github__item-text  
             | #{content}
-        a.btn-underline(href=link)
+        a.btn-underline(href=link, target="_blank")
             span.text Смотреть код на github
             span.arrow
                 img(src="./img/icons/github-btn-arrow.svg", alt="")

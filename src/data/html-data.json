@@ -151,7 +151,7 @@
     "githubRepos": [
         {
             "title": "Booking Wp plugin",
-            "content": "Плагин система-бронирования недвижимости для CMS WordPress",
+            "content": "Плагин каталога недвижимости для CMS WordPress",
             "link": "https://github.com/Derevyanchenko/ddBooking"
         },
         {
@@ -191,9 +191,9 @@
             "content": [
                 "- html / pug (шаблонизатор)",
                 "- css / scss / bootstrap",
-                "- jvascript / JQuery / ES6 / basics React.js",
-                "- Gulp, Webpack",
-                "- git / github / bitbucket / gitlab"
+                "- jvascript / JQuery / ES6",
+                "- git / github",
+                "- Gulp"
             ]
         },
         {
@@ -202,7 +202,7 @@
                "- Разработка Wordpress тем",
                "- Разработка Wordpress плагинов",
                "- Разработка WooCommerce тем (базовые навыки)",
-               "- Плагины: ACF, CPT, WooCommerce, Polylang, Contact Form 7"
+               "- Плагины: ACF, CPT, WooCommerce, Contact Form 7"
             ]
         }
     ],
